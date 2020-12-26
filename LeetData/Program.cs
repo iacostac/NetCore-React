@@ -6,7 +6,7 @@ namespace LeetData
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hola alumnos al curso ASP.NET CORE - React Hooks");
         }
     }
 }
